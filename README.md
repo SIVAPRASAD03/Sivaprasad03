@@ -13,7 +13,7 @@ I have signed up for a few courses on multiple online learning platforms and mos
 •	Quantum Computing Certification (9-month course) from the Indian Institute of Science, Bangalore.
 
 
-**My Interests:** I am deeply passionate about the Equity Markets, particularly in trading Equity Derivatives. My fascination lies in algorithmic trading, where I enjoy developing and implementing my strategies using my Algo platform. Currently, I am focused on honing my skills in this domain and aiming for mastery. Additionally, I am enthusiastic about exploring AI and Quantum Computing and want to delve deeper into these fields to expand my knowledge and expertise.
+**My Interests:** I am deeply passionate about AI and Quantum Computing and I continue learning and building my expertise in thest two domains. Apart from this, I am fascinated by the world of Equity Derivatives. I enjoy developing and implementing my Option strategies on the platform I built for algorithmic trading in my spare time.
 
 **Technical skills:** 
 •	Scripting: VB Script, Javascript 
