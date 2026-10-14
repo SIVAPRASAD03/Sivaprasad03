@@ -3,7 +3,7 @@ Hi there 👋
 Thanks for stopping by my page.
 
 I am a continuous learner and derive immense happiness in learning new things, technologies, and domains. 
-I have signed up for a few courses on multiple online learning platforms and most of my little time off work is spent on these platforms, doing hands-on learning. The process of learning is what excites me the most than the outcome of learning and it is something that gives me a lot of satisfaction and joy. 
+I keep signing up for courses on multiple online learning platforms and a good amount of my time off work is spent on these platforms, doing hands-on learning. The process of learning is what excites me the most than the outcome of learning and it is something that gives me a lot of satisfaction and joy. 
 
 
 **My Academics:** 
